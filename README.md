@@ -1,4 +1,4 @@
-## Hi, I'm Filipe Covas, Programming and Tech lover!
+## Hi!
 <div align="center">
   <a href="https://github.com/FilipeCovas">
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=FilipeCovas&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
